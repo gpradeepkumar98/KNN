@@ -66,7 +66,7 @@ Usage
 
 Results
 
-The project aims to achieve accurate classification of breast cancer tumors using K-nearest neighbors. The results, including model performance metrics and visualizations, can be found in the Jupyter Notebook Breast_Cancer_KNN.ipynb.
+The project aims to achieve accurate classification of breast cancer tumors using K-nearest neighbors. The results, including model performance metrics and visualizations, can be found in the Jupyter Notebook KNN.ipynb.
 Contributing
 
 Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
